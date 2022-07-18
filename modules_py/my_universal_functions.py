@@ -22,20 +22,20 @@ def swapValues(L,idx1,idx2):
     L[idx2] = tmp
     return L
 
-def addAllNumerics(*args):
+def addAllNumerics(*args): #sum
     s= 0
     for x in args:
         s+=x
     return s
 
-def findMin(L,startIndx):
-    m = L[startIndx]
+def findMin(L,startIndx): 
+    m = L[startIndx] #zero
     idx = startIndx
     for i in range(startIndx,len(L)):
         x = L[i] #zero
         if x<m:
             m = x
-            idx = i #zero
+            idx = i #idx from for for
         else:
             pass
     return m,idx
