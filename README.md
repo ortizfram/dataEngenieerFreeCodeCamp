@@ -1,4 +1,8 @@
-# dataEngenieerFreeCodeCamp
+# dataEngenieerFreeCodeCamp 
+
+(this video helped me a lot) :point_down: 
+
+https://www.youtube.com/watch?v=LHBE6Q9XlzI&list=PLuGlWe6SWmRMxvfwtrFI_8oYu9OVns9Nm&index=4&t=34371s
 
 ## ZeroToZero
 
