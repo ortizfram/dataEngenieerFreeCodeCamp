@@ -23,5 +23,11 @@ https://www.youtube.com/watch?v=LHBE6Q9XlzI&list=PLuGlWe6SWmRMxvfwtrFI_8oYu9OVns
   . tuples
   
 - problem solving with data
-- Numpy
+- Numpy :
+        . .dtype
+        . .ndim
+        . np.arange()
+        . np.random.permutation()
+        . np.reshape()
+        . matplotlib
 
