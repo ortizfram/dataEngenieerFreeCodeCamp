@@ -30,4 +30,5 @@ https://www.youtube.com/watch?v=LHBE6Q9XlzI&list=PLuGlWe6SWmRMxvfwtrFI_8oYu9OVns
         . np.random.permutation()
         . np.reshape()
         . matplotlib
+- Pandas :
 
